@@ -21,6 +21,10 @@ The dataset used to train and test the model can be downloaded from the followin
 
 Make sure to place the unzipped dataset in the `data/` directory.
 
+## 📸 Demonstration
+
+![Example Output](media/example.png)
+
 ## 👨‍💻 Author
 
 This project was developed by **Iaggo Capitanio**.
